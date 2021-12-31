@@ -1,4 +1,4 @@
-# Terraform on Azure with Azure IaC DevOps for Terraform Project
+# Terraform on Azure with Azure Infrastructure as Code DevOps for Terraform Project
 
 1. Implement IaC usecases with Terraform on Azure cloud using Azure DevOps
 2. Implement Azure Build Pipelines (Continuous Integration Pipelines)
